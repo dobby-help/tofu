@@ -16,6 +16,7 @@ from os.path import join
 from collections import OrderedDict
 from torch.autograd import Variable
 
+
 scan_color = [ 224., 177., 189. ]
 algn_color = [ 155., 184., 143. ]
 
